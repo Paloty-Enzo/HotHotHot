@@ -1,0 +1,30 @@
+{
+ "data" : [
+   {
+     "temp" : "10",
+     "descr" : "froid",
+     "capteur" : "int"
+   },
+   {
+     "temp" : "35",
+     "descr" : "HOTHOTHOT",
+     "capteur" : "ext"
+   },
+   {
+     "temp" : "20",
+     "descr" : "chill",
+     "capteur" : "int"
+   },
+   {
+     "temp" : "15",
+     "descr" : "OOF",
+     "capteur" : "ext"
+   },
+   {
+     "temp" : "18",
+     "descr" : "oklm",
+     "capteur" : "ext"
+   }
+ ]
+
+}
